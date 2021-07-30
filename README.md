@@ -8,7 +8,6 @@ Olá, sou o Eduardo!
 
 👯 Estou procurando vaga de junior (Focado no Desenvolvimento Web).
 
-[![Anurag's GitHub stats](https://github.com/Eduardo-SBorges/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorges&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorges&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorges&count_private=true)
