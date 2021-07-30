@@ -10,7 +10,7 @@ Olá, sou o Eduardo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-SBorges)](https://github.com/Eduardo-SBorges/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eduardo-SBorges)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eduardo_SBorges)]
 
 
 
