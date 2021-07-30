@@ -10,7 +10,8 @@ Imensa capacidade de solucionar problemas e maestria em lidar com pessoas. Sou u
 
 👯 Estou procurando vaga de junior (Focado no Desenvolvimento Web).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorgeshow_icons=true)
+
 
 
 Anurag's GitHub stats
