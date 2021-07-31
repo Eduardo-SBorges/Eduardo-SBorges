@@ -8,6 +8,9 @@ Olá, sou o Eduardo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-SBorges)](https://github.com/Eduardo-SBorges/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eduardo_SBorges)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📫 Contato:
 WhatsApp: 53 9 9138-6031
 E-mail: eduardosorbor@gmail.com
