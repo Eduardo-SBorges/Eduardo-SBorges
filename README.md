@@ -4,7 +4,7 @@ Olá, sou o Eduardo!
 
 :books: Acesse o meu Web Currículo e conheça mais sobre mim: https://eduardo-sborges.github.io/My_Web_Resume/
 
-👯 Estou buscando uma vaga de estágio/efetivo-júnior (focado no desenvolvimento Web).
+:hammer: Estou buscando uma vaga de estágio/efetivo-júnior (focado no desenvolvimento Web).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorges&hide=contribs,prs)
 
