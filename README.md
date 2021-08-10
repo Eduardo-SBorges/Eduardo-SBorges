@@ -13,5 +13,4 @@ Olá, sou o Eduardo!
 
 📫 Contato:
 WhatsApp: 53 9 9138-6031
-
-:pencil: E-mail: eduardosorbor@gmail.com
+| E-mail: eduardosorbor@gmail.com
