@@ -4,7 +4,7 @@ Olá, sou o Eduardo!
 
 :books: Acesse o meu Web Currículo e conheça mais sobre mim: https://eduardo-sborges.github.io/My_Web_Resume/
 
-:hammer: Estou buscando uma vaga de estágio/efetivo-júnior (focado no desenvolvimento Web).
+:hammer: Hoje, sou colaborador da Compass, do grupo UOL, focado no desenvolvimento Web Front-End com React.js.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-SBorges)](https://github.com/Eduardo-SBorges/github-readme-stats)
 
