@@ -6,8 +6,6 @@ Olá, sou o Eduardo!
 
 :hammer: Estou buscando uma vaga de estágio/efetivo-júnior (focado no desenvolvimento Web).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-SBorges&hide=contribs,prs)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-SBorges)](https://github.com/Eduardo-SBorges/github-readme-stats)
 
 
