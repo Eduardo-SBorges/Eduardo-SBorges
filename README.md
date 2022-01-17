@@ -1,8 +1,8 @@
 Olá, sou o Eduardo!
 
-🌱 Tenho 23 anos, e me orgulho em dizer que venho de uma família humilde, aonde sempre me motivaram a estudar em busca de um futuro melhor. Em consequência disso, sou formado em ADM e, hoje, sou discente do curso de ADS e possuo alguns cursos na área de desenvolvimento Front-end. Um curioso por natureza e apaixonado por tudo que me proponho a fazer.
+🌱 Olá, sou Eduardo! Formado em Administração de Empresas com foco em coaching e análise comportamental. Buscando uma nova paixão, me encontrei no universo da tecnologia. Atualmente, estou trabalhando como desenvolvedor AEM, especificamente com desenvolvimento de aplicações web. Curioso, criativo e disciplinado, fico na maior parte do meu tempo livre estudando novas tecnologias, batendo papo em calls com amigos e com a família (sou casado). Tenho experiência em visão de negócios e gestão de pessoas, assim como habilidades em liderança e comunicação com foco em entrega de resultados.
 
-:books: Acesse o meu Web Currículo e conheça mais sobre mim: https://eduardo-sborges.github.io/My_Web_Resume/
+:books: Acesse o meu Web Currículo e conheça mais sobre mim: https://61e59dcf10fde3fa1ca706b2--keen-montalcini-4cd445.netlify.app
 
 :hammer: Hoje, sou colaborador da Compass, do grupo UOL, focado no desenvolvimento Web Front-End com React.js.
 
