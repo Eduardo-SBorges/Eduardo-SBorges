@@ -12,8 +12,3 @@ Olá, sou o Eduardo!
 📫 Contato:
 WhatsApp: 53 9 9138-6031
 | E-mail: eduardosorbor@gmail.com
-
-<img
-  src="https://github.com/Eduardo-SBorges/aem/blob/master/images/stat.svg"
-  alt="Alternative Text"
-/>
