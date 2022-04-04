@@ -12,3 +12,29 @@ Olá, sou o Eduardo!
 📫 Contato:
 WhatsApp: 53 9 9138-6031
 | E-mail: eduardosorbor@gmail.com
+
+name: WakaTime status update
+
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: "1 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below until you have forked this repository
+      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          # WakaTime API key stored in secrets, do not directly paste it here
+          WAKATIME_API_KEY: ${{ secrets.5553fd58-8452-4394-88a4-707b8a3536c3 }}
+          # Automatic github token
+          GITHUB_TOKEN: ${{ github.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 }}
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "master"
+          # Manual Commit messages - write your own messages here
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
